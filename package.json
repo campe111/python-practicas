@@ -1,0 +1,19 @@
+{
+  "name": "pyton-practica",
+  "version": "1.0.0",
+  "description": "Practicas sobre pyton,aprendiendo sobre variables,bucles,condicionales.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/campe111/pyton-practicas.git"
+  },
+  "author": "Brian Ocampos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/campe111/pyton-practicas/issues"
+  },
+  "homepage": "https://github.com/campe111/pyton-practicas#readme"
+}
