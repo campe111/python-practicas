@@ -1,2 +1,2 @@
 # pyton-practicas
-Aprendiendo pyton, todo sobre variables,bucles,condicionales,arreglos.
+Aprendiendo python, todo sobre variables,bucles,condicionales,arreglos.
